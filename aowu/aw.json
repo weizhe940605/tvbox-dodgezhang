@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/1.png;md5;14751afef3ef30b1afffa398f1e9d961",
+    "spider": "./jar/1.png;md5;2dd93067babd96be152a4ef45e2ce7f8",
     "logo": "./img/9.gif",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -32,9 +32,19 @@
             "api": "csp_HgdhAmns",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
+            "changeable": 0,
             "genre": "shortdrama",
             "ext": "Hgdh"
+        },
+        {
+            "name": "🔥经典┃推荐",
+            "key": "Xxxg",
+            "type": 3,
+            "api": "csp_XxxgAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "Xxxg"
         },
         {
             "name": "⚙️配置┃中心",
@@ -113,7 +123,17 @@
             "ext": "NewGrV2"
         },
         {
-            "name": "📦①线┃秒播",
+            "name": "📦师兄┃APP",
+            "key": "AppV7Dsx",
+            "type": 3,
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Dsx"
+        },
+        {
+            "name": "📦浮舟┃APP",
             "key": "AppV7Fz",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -123,7 +143,7 @@
             "ext": "AppV7Fz"
         },
         {
-            "name": "📦②线┃秒播",
+            "name": "📦星野┃APP",
             "key": "AppV7Xy",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -133,7 +153,7 @@
             "ext": "AppV7Xy"
         },
         {
-            "name": "📦③线┃秒播",
+            "name": "📦织锦┃APP",
             "key": "AppV7Zjdr",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -143,7 +163,7 @@
             "ext": "AppV7Zjdr"
         },
         {
-            "name": "📦④线┃秒播",
+            "name": "📦玄珠┃APP",
             "key": "AppV7Xyz",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -153,7 +173,7 @@
             "ext": "AppV7Xyz"
         },
         {
-            "name": "📦⑤线┃秒播",
+            "name": "📦衔梦┃APP",
             "key": "AppV7Xnm",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -163,7 +183,7 @@
             "ext": "AppV7Xnm"
         },
         {
-            "name": "📦⑥线┃秒播",
+            "name": "📦鸣泉┃APP",
             "key": "AppV7Mtq",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -173,7 +193,7 @@
             "ext": "AppV7Mtq"
         },
         {
-            "name": "📦⑦线┃秒播",
+            "name": "📦琳琅┃APP",
             "key": "AppV7Llq",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -183,7 +203,7 @@
             "ext": "AppV7Llq"
         },
         {
-            "name": "📦⑧线┃秒播",
+            "name": "📦衔石┃APP",
             "key": "AppV7Xsz",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -193,7 +213,7 @@
             "ext": "AppV7Xsz"
         },
         {
-            "name": "📦⑨线┃秒播",
+            "name": "📦星海┃APP",
             "key": "AppV7Xhr",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -201,16 +221,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "AppV7Xhr"
-        },
-        {
-            "name": "📦师兄┃秒播",
-            "key": "AppV7Dsx",
-            "type": 3,
-            "api": "csp_AppV7Amns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AppV7Dsx"
         },
         {
             "name": "☁️花卷┃4K",
@@ -221,16 +231,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "PanHj"
-        },
-        {
-            "name": "☁️闪电┃4K",
-            "key": "yxWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "yxWobg"
         },
         {
             "name": "☁️多多┃4K",
@@ -253,6 +253,26 @@
             "ext": "hbWobg"
         },
         {
+            "name": "☁️蜡笔┃4K",
+            "key": "lbWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "lbWobg"
+        },
+        {
+            "name": "☁️闪电┃4K",
+            "key": "sdWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "sdWobg"
+        },
+        {
             "name": "☁️Sed┃4K",
             "key": "SeedHub",
             "type": 3,
@@ -269,8 +289,7 @@
             "api": "csp_GyingAmns",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "Gying"
+            "changeable": 1
         },
         {
             "name": "☁️七味┃4K",
@@ -320,10 +339,10 @@
             "changeable": 1
         },
         {
-            "name": "🐱番薯┃动漫",
-            "key": "DMfans",
+            "name": "🐱嗷嗚┃动漫",
+            "key": "DMcyc",
             "type": 3,
-            "api": "csp_DMfansAmns",
+            "api": "csp_DMcycAmns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -338,10 +357,19 @@
             "changeable": 1
         },
         {
-            "name": "🐱青云┃动漫",
-            "key": "DMqingk",
+            "name": "🐱快快┃动漫",
+            "key": "DMlmm",
             "type": 3,
-            "api": "csp_DMqingkAmns",
+            "api": "csp_DMlmmAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "name": "🐱冬瓜┃动漫",
+            "key": "DMxigua",
+            "type": 3,
+            "api": "csp_DMxiguaAmns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -392,7 +420,8 @@
             "api": "csp_HgggAmns",
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 1,
+            "changeable": 0,
+            "ext": "DjHggg",
             "genre": "shortdrama"
         },
         {
@@ -400,8 +429,8 @@
             "key": "HHkk",
             "type": 3,
             "api": "csp_HHkkAmns",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "changeable": 1,
             "genre": "shortdrama"
         },
@@ -459,7 +488,7 @@
             "name": "⭐橘汁┃快速",
             "key": "Woshinidie",
             "type": 3,
-            "jar": "./jar/2.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
+            "jar": "./jar/2.png;md5;528450abfa7bbee80d68034ae045a1f6",
             "api": "csp_Woshinidie",
             "searchable": 1,
             "quickSearch": 1,
@@ -494,15 +523,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "JPian"
-        },
-        {
-            "name": "⭐伊外┃快速",
-            "key": "YIys",
-            "type": 3,
-            "api": "csp_YIysAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "name": "⭐爱看┃采集",
@@ -967,14 +987,6 @@
             ]
         },
         {
-            "name": "OneDNS",
-            "url": "https://doh-pure.onedns.net/dns-query",
-            "ips": [
-                "117.50.10.10",
-                "52.80.52.52"
-            ]
-        },
-        {
             "name": "Cloudflare",
             "url": "https://cloudflare-dns.com/dns-query",
             "ips": [
@@ -990,46 +1002,6 @@
             "ips": [
                 "8.8.8.8",
                 "8.8.4.4"
-            ]
-        },
-        {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-query",
-            "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
-            ]
-        },
-        {
-            "name": "AdGuard",
-            "url": "https://dns.adguard-dns.com/dns-query",
-            "ips": [
-                "94.140.14.14",
-                "94.140.15.15"
-            ]
-        },
-        {
-            "name": "DNSWatch",
-            "url": "https://resolver2.dns.watch/dns-query",
-            "ips": [
-                "84.200.69.80",
-                "84.200.70.40"
-            ]
-        },
-        {
-            "name": "NextDNS",
-            "url": "https://dns.nextdns.io/your_profile_id",
-            "ips": [
-                "45.90.28.0",
-                "45.90.30.0"
-            ]
-        },
-        {
-            "name": "ControlD",
-            "url": "https://freedns.controld.com/p0",
-            "ips": [
-                "76.76.2.0",
-                "76.76.10.0"
             ]
         }
     ],
